@@ -1,9 +1,0 @@
-# Secrets and local-only configuration
-.env
-.env.*
-!.env.example
-config.local.php
-
-# Runtime logs
-*.log
-upload-log.jsonl
